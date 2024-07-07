@@ -6,3 +6,5 @@ xhofe/alist:latest
 jlesage/nginx-proxy-manager
 jeessy/ddns-go
 linuxserver/jellyfin
+lscr.io/linuxserver/qbittorrent
+nastool/nas-tools
