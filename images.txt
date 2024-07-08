@@ -8,3 +8,6 @@ jeessy/ddns-go
 linuxserver/jellyfin
 lscr.io/linuxserver/qbittorrent
 nastool/nas-tools
+tensorchord/pgvecto-rs:pg16-v0.2.1
+ghcr.io/imagegenius/immich
+library/redis
