@@ -11,4 +11,4 @@ nastool/nas-tools
 filebrowser/filebrowser
 altran1502/immich-server:release
 tensorchord/pgvecto-rs:pg16-v0.2.1
-redis:6.2
+library/redis:6.2
