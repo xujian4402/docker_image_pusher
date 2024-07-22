@@ -13,4 +13,5 @@
 #altran1502/immich-machine-learning:release
 #tensorchord/pgvecto-rs:pg16-v0.2.1
 #library/redis:6.2
-tensorchord/pgvecto-rs:pg14-v0.2.0
+#tensorchord/pgvecto-rs:pg14-v0.2.0
+cloudnas/clouddrive2
