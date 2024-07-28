@@ -14,4 +14,5 @@
 #tensorchord/pgvecto-rs:pg16-v0.2.1
 #library/redis:6.2
 #tensorchord/pgvecto-rs:pg14-v0.2.0
-cloudnas/clouddrive2
+#cloudnas/clouddrive2
+linuxserver/jellyfin
