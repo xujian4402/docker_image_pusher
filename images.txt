@@ -5,7 +5,6 @@
 --platform=linux/arm64 xiaoyaliu/alist
 #jlesage/nginx-proxy-manager
 #jeessy/ddns-go
-#linuxserver/jellyfin
 #lscr.io/linuxserver/qbittorrent
 #nastool/nas-tools
 #filebrowser/filebrowser
@@ -15,4 +14,10 @@
 #library/redis:6.2
 #tensorchord/pgvecto-rs:pg14-v0.2.0
 #cloudnas/clouddrive2
-linuxserver/jellyfin
+#linuxserver/jellyfin
+library/redis
+ghcr.io/gethomepage/homepage
+lscr.io/linuxserver/syncthing
+lscr.io/linuxserver/duplicati
+p3terx/aria2-pro
+lscr.io/linuxserver/calibre-web
