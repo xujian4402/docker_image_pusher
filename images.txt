@@ -15,9 +15,9 @@
 #tensorchord/pgvecto-rs:pg14-v0.2.0
 #cloudnas/clouddrive2
 #linuxserver/jellyfin
-library/redis
-ghcr.io/gethomepage/homepage
-lscr.io/linuxserver/syncthing
-lscr.io/linuxserver/duplicati
-p3terx/aria2-pro
-lscr.io/linuxserver/calibre-web
+#library/redis
+#ghcr.io/gethomepage/homepage
+#lscr.io/linuxserver/syncthing
+#lscr.io/linuxserver/duplicati
+#p3terx/aria2-pro
+#lscr.io/linuxserver/calibre-web
