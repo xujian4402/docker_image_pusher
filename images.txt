@@ -7,8 +7,8 @@
 #jeessy/ddns-go
 #lscr.io/linuxserver/qbittorrent
 #nastool/nas-tools
-#filebrowser/filebrowser
-ghcr.io/imagegenius/immich
+filebrowser/filebrowser
+#ghcr.io/imagegenius/immich
 #altran1502/immich-server:release
 #altran1502/immich-machine-learning:release
 #tensorchord/pgvecto-rs:pg16-v0.2.1
