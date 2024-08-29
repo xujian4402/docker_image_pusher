@@ -23,4 +23,5 @@
 #p3terx/aria2-pro
 #lscr.io/linuxserver/calibre-web
 #minio/minio
-dreamacro/clash
+#dreamacro/clash
+mzz2017/v2raya
