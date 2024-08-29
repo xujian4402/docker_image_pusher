@@ -22,4 +22,5 @@
 #lscr.io/linuxserver/duplicati
 #p3terx/aria2-pro
 #lscr.io/linuxserver/calibre-web
-minio/minio
+#minio/minio
+dreamacro/clash
