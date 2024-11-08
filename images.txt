@@ -25,4 +25,5 @@
 #minio/minio
 #dreamacro/clash
 #mzz2017/v2raya
-lscr.io/linuxserver/homeassistant
+#lscr.io/linuxserver/homeassistant
+ghcr.io/home-assistant/home-assistant:stable
