@@ -11,8 +11,8 @@
 #ghcr.io/imagegenius/immich
 #altran1502/immich-server:release
 #altran1502/immich-machine-learning:release
-ghcr.io/immich-app/immich-server:release
-ghcr.io/immich-app/immich-machine-learning:release
+#ghcr.io/immich-app/immich-server:release
+#ghcr.io/immich-app/immich-machine-learning:release
 #docker.io/redis:6.2-alpine@sha256:eaba718fecd1196d88533de7ba49bf903ad33664a92debb24660a922ecd9cac8
 #docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0@sha256:90724186f0a3517cf6914295b5ab410db9ce23190a2d9d0b9dd6463e3fa298f0
 #tensorchord/pgvecto-rs:pg16-v0.2.1
@@ -28,6 +28,6 @@ ghcr.io/immich-app/immich-machine-learning:release
 #lscr.io/linuxserver/calibre-web
 #minio/minio
 #dreamacro/clash
-#mzz2017/v2raya
+mzz2017/v2raya
 #lscr.io/linuxserver/homeassistant
 #ghcr.io/home-assistant/home-assistant:stable
