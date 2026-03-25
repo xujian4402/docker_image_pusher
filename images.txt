@@ -32,5 +32,5 @@
 #lscr.io/linuxserver/homeassistant
 #ghcr.io/home-assistant/home-assistant:stable
 #shadowsocks/shadowsocks-libev
-
-uozi/nginx-ui:latest
+#uozi/nginx-ui:latest
+vaultwarden/server
