@@ -33,4 +33,6 @@
 #ghcr.io/home-assistant/home-assistant:stable
 #shadowsocks/shadowsocks-libev
 #uozi/nginx-ui:latest
-vaultwarden/server
+#vaultwarden/server
+mysql:8.4
+redis:7.4-alpine
